@@ -1,0 +1,8 @@
+.FormContainer {
+    display: flex;
+    flex-flow: row wrap;
+}
+.Typography {
+    display: flex;
+    justify-content: center;
+}
